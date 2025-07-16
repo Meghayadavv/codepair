@@ -1,4 +1,4 @@
-# CodePairingPro
+# CodePairingPro - collab with ai
 
 ## Overview
 CodePairingPro is an AI-powered programming assistant that leverages OpenAI's GPT models to assist developers with:
