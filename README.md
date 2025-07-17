@@ -1,6 +1,6 @@
-# CodePairingPro - collab with ai
+# CodePairingPro - collab with ai meghaaaaaaaaaaa
 
-## Overview
+## Overview megha 
 CodePairingPro is an AI-powered programming assistant that leverages OpenAI's GPT models to assist developers with:
 - Code suggestions and improvements.
 - Code analysis and reviews.
